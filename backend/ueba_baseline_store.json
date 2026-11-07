@@ -1,0 +1,43 @@
+{
+    "user_baseline": {
+        "UMFD-12": 3.99,
+        "WsiAccount": 5.99,
+        "Guest": 1875.15,
+        "C307C188-74A1-4120-90AC-F1D7CD7848DB": 4.99,
+        "DWM-12": 9.99,
+        "8208D25D-BE40-457E-A500-56B61A4E9C3A": 4.99,
+        "DefaultAccount": 1875.15,
+        "UMFD-11": 3.99,
+        "compromised_admin": 6.99,
+        "DWM-10": 9.99,
+        "Event Log Readers": 0.99,
+        "TestSIEM123": 4.99,
+        "siem_test_user": 64.99,
+        "DWM-11": 9.99,
+        "rakeshvankadara@gmail.com": 176.69,
+        "rakes": 1883.15,
+        "Administrator": 1875.08,
+        "UMFD-10": 3.99,
+        "SIEMTestUser": 21.99
+    },
+    "ip_baseline": {
+        "198.51.100.25": 64.99,
+        "198.51.100.99": 11.99,
+        "::1": 21.99,
+        "127.0.0.1": 93.85
+    },
+    "user_ip_baseline": {
+        "compromised_admin": {
+            "198.51.100.99": 6.99
+        },
+        "rakeshvankadara@gmail.com": {
+            "127.0.0.1": 93.85
+        },
+        "SIEMTestUser": {
+            "::1": 21.99
+        },
+        "siem_test_user": {
+            "198.51.100.25": 64.99
+        }
+    }
+}
